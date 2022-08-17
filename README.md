@@ -1,5 +1,7 @@
 # ML4LHC-Tutorial
 
+![](assets/ATLAS-VAE-pipeline.jpg)
+
 ## Data Preparation
 
 * [MadGraph](https://launchpad.net/mg5amcnlo): event generation. A summer school reference slides: https://indico.ihep.ac.cn/event/7822/contribution/19/material/slides/0.pdf
