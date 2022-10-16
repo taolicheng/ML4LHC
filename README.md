@@ -1,6 +1,6 @@
 # ML4LHC-Tutorial
 
-![](assets/ATLAS-VAE-pipeline.jpg)
+![](assets/ai4sci-workflow.jpg)
 
 ## Data Preparation
 
